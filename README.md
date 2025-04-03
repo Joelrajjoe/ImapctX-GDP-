@@ -281,6 +281,5 @@ except Exception as e:
 - Generate intervention strategies for states with below-average performance
 - Review suggested policies for reducing inequality
 
-## Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
+
 
